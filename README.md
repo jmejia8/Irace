@@ -1,7 +1,9 @@
 # Irace (wrapper) for Julia
 
 You can configure your algorithms (hyper-parameters optimization) by using the Irace
-package written in R. **Recommended only if your target algorithm is a julia function.**
+package written in R.
+
+**Recommended only if your target algorithm is a Julia function.**
 
 ## Installation
 
